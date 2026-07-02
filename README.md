@@ -46,7 +46,7 @@ There is no MENU ITEM where this application is peculiar.
 {"foo": "bar", "baz": [1,true]}
 ```
 
-If you parse this JSON, jsmn generates tokens like the following.   
+If you parse this JSON, jsmn generates the following tokens.   
 |Token|Type|Value|Size|
 |:---|:---|:---|:---|
 |tokens[0]|JSMN_OBJECT||2|
